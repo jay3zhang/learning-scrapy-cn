@@ -8,6 +8,10 @@
 
 关于[这本书](https://book.douban.com/subject/26708820/)
 
+[目录](https://github.com/jay3zhang/learning-scrapy-cn/blob/master/%E7%9B%AE%E5%BD%95.md)
+
+[本书内容简介](https://github.com/jay3zhang/learning-scrapy-cn/blob/master/%E6%9C%AC%E4%B9%A6%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B.md)
+
 关于[scrapy的资料](https://github.com/scrapy/scrapy/wiki)
 
 有想要一起翻译的童鞋，欢迎联系我(jay_1121863910@163.com)

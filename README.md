@@ -12,10 +12,12 @@
 
 [本书内容简介](https://github.com/jay3zhang/learning-scrapy-cn/blob/master/%E6%9C%AC%E4%B9%A6%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B.md)
 
-关于[scrapy的资料](https://github.com/scrapy/scrapy/wiki)
-
 有想要一起翻译的童鞋，欢迎联系我(jay_1121863910@163.com)
 
 需要这本书的英文电子版的童鞋，也可以联系我。
+
+关于[scrapy的资料](https://github.com/scrapy/scrapy/wiki)
+
+看到一个很好的scrapy中文资料，推荐一下，[链接在这](https://github.com/yidao620c/scrapy-cookbook)
 
 如有侵权，请联系我，我会及时删除。
